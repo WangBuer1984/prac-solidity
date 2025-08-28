@@ -1,0 +1,19 @@
+{
+  "name": "My First NFT",
+  "description": "This is my first NFT created with OpenZeppelin and IPFS",
+  "image": "https://electric-violet-pigeon.myfilebase.com/ipfs/Qma2QPWCDrz8KHNVggaVvuXqF7E9ABMHrMn3ndw1U7tb1J",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "2"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "First"
+    }
+  ]
+}
